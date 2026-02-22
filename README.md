@@ -1,4 +1,4 @@
-# 🧠 Mini ML Framework — From Scratch
+#  Mini ML Framework — From Scratch
 
 > **Autodiff · Optimiseurs · MLP · Kernel Ridge · MNIST**  
 > Implémentation complète d'un framework de Machine Learning en **Python + NumPy uniquement** — sans PyTorch, TensorFlow ni scikit-learn.
